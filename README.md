@@ -1,0 +1,2 @@
+# Embed
+Embed Discord Bot
